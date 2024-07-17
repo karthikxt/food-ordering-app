@@ -40,9 +40,6 @@ This Pixelpalate app is a food ordering and management app where user can order 
 
 ![Screenshot 2024-04-06 060625](https://github.com/Asha-vysyaraju/food-ordering-app-fe/assets/18022094/f26ebb7c-87ae-4ef1-aed0-465b1bdd9bc2)
 
-![Screenshot 2024-04-06 060709](https://github.com/Asha-vysyaraju/food-ordering-app-fe/assets/18022094/763cbc83-1be1-4983-8cbd-b731f483e015)
-
-![image](https://github.com/Asha-vysyaraju/food-ordering-app-fe/assets/18022094/fef3a749-f210-40d8-abc2-abafb04e09b4)
 
 ![image](https://github.com/Asha-vysyaraju/food-ordering-app-fe/assets/18022094/7af39df3-5bcd-4e4a-8f0c-be1bb0d611be)
 
